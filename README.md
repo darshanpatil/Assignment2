@@ -1,2 +1,2 @@
-# Assignment2
-Lab NODE2: Modularizing Your Node.js Code
+# Lab NODE2: Modularizing Your Node.js Code
+Assignment2
